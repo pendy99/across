@@ -76,13 +76,27 @@ speed() {
     speed_test '40879' 'Montreal, CA'
     speed_test '24215' 'Paris, FR'
     speed_test '28922' 'Amsterdam, NL'
-    speed_test '24447' 'Shanghai, CN'
-    speed_test '26352' 'Nanjing, CN'
-    speed_test '27594' 'Guangzhou, CN'
-    speed_test '32155' 'Hongkong, CN'
+    speed_test '2435' 'Durres, Albania'
+    speed_test '8060' 'Bialystok, Poland'
+    speed_test '6151' 'London, UK'
+    speed_test '1301' 'Belgrade, Serbia'
+    speed_test '1249' 'Lisbon, Portugal'
+    speed_test '20507' 'Berlin, Germany'
+    speed_test '5235' 'Stockholm, Sweden'
+    speed_test '11787' 'Oslo, Norway'
+    speed_test '3188' 'Zurich, Switzerland'
+    speed_test '1363' 'Brno, Czech'
+    speed_test '6355' 'Sydney, Australia'
     speed_test '6527'  'Seoul, KR'
     speed_test '7311'  'Singapore, SG'
     speed_test '21569' 'Tokyo, JP'
+    speed_test '3633' 'Shanghai,CN CT'
+    speed_test '27594' 'Guangzhou,CN CT'
+    speed_test '4870' 'Changsha,CN CU'
+    speed_test '24447' 'ShangHai,CN CU'
+    speed_test '4575' 'Chengdu,CN CM'
+    speed_test '29105' "Xi'an,CN CM"
+
 }
 
 io_test() {
